@@ -5,8 +5,8 @@
 ### User Stories
 
 #### User Stories
-- [ ] User can tap a cell to see more details about a particular movie.
-- [ ]  User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [X] User can tap a cell to see more details about a particular movie.
+- [X]  User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #
 

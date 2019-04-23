@@ -1,5 +1,21 @@
 # Flix
+
+## Flix Part 2
+
+### User Stories
+
+#### User Stories
+- [ ] User can tap a cell to see more details about a particular movie.
+- [ ]  User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#
+
+### App Walkthough GIF
+<img src="http://g.recordit.co/DjH6hgrBmd.gif" width=250><br>
+
+### Notes
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Added a tab bar and changed layout and some functionality.
 
 
 
